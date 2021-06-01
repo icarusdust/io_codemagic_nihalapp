@@ -1,0 +1,3 @@
+New version of app was released with the following features:
+1. New UI
+2. Counter bug fix ....
