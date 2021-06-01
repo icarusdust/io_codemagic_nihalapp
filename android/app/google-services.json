@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83013332380",
+    "project_id": "codemagicnihal",
+    "storage_bucket": "codemagicnihal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83013332380:android:7692d35e21e8885cab2c59",
+        "android_client_info": {
+          "package_name": "com.example.io_codemagic_nihalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83013332380-385mgv0mpm6p64lgtdovqopa9v0s1gb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9z8y1ryY7MUz-V6mKrUjLLLY3XSl0_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83013332380-385mgv0mpm6p64lgtdovqopa9v0s1gb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

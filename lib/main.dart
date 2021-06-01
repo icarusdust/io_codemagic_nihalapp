@@ -1,7 +1,12 @@
 import "package:flutter/material.dart";
 import "./text.dart";
+import "package:firebase_core/firebase_core.dart";
 
-void main() => runApp(MyApp());
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(MyApp());
+}
 
 class MyApp extends StatefulWidget{
   _MyAppState createState() => _MyAppState();
